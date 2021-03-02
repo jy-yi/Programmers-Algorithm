@@ -1,3 +1,4 @@
+package Level1;
 /**
  * 콜라츠 추측
  * @author jy-yi

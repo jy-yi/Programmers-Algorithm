@@ -1,3 +1,4 @@
+package Level1;
 import java.util.stream.IntStream;
 
 public class KeyPad {
