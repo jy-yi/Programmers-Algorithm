@@ -55,7 +55,6 @@ public class JadenCase {
 			if (st.hasMoreTokens())
 				answer += " ";
 		}
-		
 		return answer;
 	}
 }
